@@ -25,6 +25,6 @@ setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerabil
 urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
 fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
 requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
-werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
 wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
